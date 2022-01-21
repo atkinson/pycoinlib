@@ -26,45 +26,11 @@
   <p align="center">
     Python client for the coinlib.io API endpoints.
     <br />
-    <a href="https://github.com/atkinson/pycoinlib"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/atkinson/pycoinlib/issues">Report Bug</a>
     ·
     <a href="https://github.com/atkinson/pycoinlib/issues">Request Feature</a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-A simple API wrapper for the coinlib.io API.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
 
 
 <!-- GETTING STARTED -->
