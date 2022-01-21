@@ -44,7 +44,7 @@
    ```
 3. Add your API in as an env var
    ```sh
-   export COINLIB_API_KEY="YOUR API KEY";
+   export COINLIB_API_KEY="YOUR API KEY"
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
