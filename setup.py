@@ -6,9 +6,9 @@ with open("README.md") as f:
 setup(
     name="pycoinlib",
     packages=find_packages(),
-    version=0.1,
+    version=0.2,
     license="MIT License",
-    description="Python client for the coinlib.ai API.",
+    description="Python client for the coinlib.io API.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Rich Atkinson",
