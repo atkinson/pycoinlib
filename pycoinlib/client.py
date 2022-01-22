@@ -22,8 +22,8 @@ BASE_URL = "https://coinlib.io/api/v1/"
 COINLIB_API_KEY = os.getenv("COINLIB_API_KEY")
 
 
-def api(name, **params):
+def api(endpoint, **params):
     return requests.get(
-        urljoin(BASE_URL, name),
+        urljoin(BASE_URL, endpoint),
         params | {"key": COINLIB_API_KEY},
     ).json()
